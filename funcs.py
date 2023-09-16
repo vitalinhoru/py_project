@@ -3,5 +3,7 @@ def summ():
     return x
 
 
-n = summ()
-print(n)
+def razn()
+    x = 5 - 2
+    return x
+
